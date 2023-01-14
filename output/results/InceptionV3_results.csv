@@ -1,0 +1,3 @@
+Model Name,Info,Accuracy,Sensitivity/Recall,Specificity,PPV,NPV,Balanced_accuracy,F1,AUC,TN,FP,FN,TP
+InceptionV3,Covid19+,0.8150,0.7000,0.9300,0.9091,0.7561,0.8150,0.7910,0.937175,186,14,60,140
+InceptionV3,Covid19+,0.8150,0.7000,0.9300,0.9091,0.7561,0.8150,0.7910,0.937175,186,14,60,140

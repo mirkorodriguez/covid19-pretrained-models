@@ -1,0 +1,2 @@
+Model Name,Info,Accuracy,Sensitivity/Recall,Specificity,PPV,NPV,Balanced_accuracy,F1,AUC,TN,FP,FN,TP
+VGG16,Covid19+,0.8575,0.8050,0.9100,0.8994,0.8235,0.8575,0.8496,0.930825,182,18,39,161

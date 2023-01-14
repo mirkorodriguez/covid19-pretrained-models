@@ -1,0 +1,2 @@
+Model Name,Info,Accuracy,Sensitivity/Recall,Specificity,PPV,NPV,Balanced_accuracy,F1,AUC,TN,FP,FN,TP
+ResNet50,Covid19+,0.8150,0.6400,0.9900,0.9846,0.7333,0.8150,0.7758,0.9577249999999999,198,2,72,128
